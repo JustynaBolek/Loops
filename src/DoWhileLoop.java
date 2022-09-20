@@ -4,7 +4,6 @@ public class DoWhileLoop {
         do{
             ++x;
             System.out.println(x);
-
         }while(x<10);
     }
 }
